@@ -1,4 +1,4 @@
 # PR-RPS
-Older Player shows:
+Older Player shows: paper
 
 Younger Player shows: paper
